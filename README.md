@@ -1,3 +1,5 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
 
 <div align="center">
@@ -8,3 +10,11 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###

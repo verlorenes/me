@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Verlorenes and I'm a lil silly dev, from Russia</h2>
+<h2 align="left">Hi 👋! My name is REDACTED and I'm a lil silly dev, from Russia</h2>
 
 ###
 
